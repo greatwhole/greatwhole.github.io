@@ -3,7 +3,7 @@
 
 ARTS：
 
-1.Algorithm：每周至少做一个 leetcode 的算法题
+1.[Algorithm](Algorithm/index.md)：每周至少做一个 leetcode 的算法题
 
 2.Review：阅读并点评至少一篇英文技术文章
 
